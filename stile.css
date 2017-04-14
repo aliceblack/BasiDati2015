@@ -1,0 +1,40 @@
+body {
+    background-color: #FFDBE0;
+}
+.logo{
+text-indent:-999999px;
+background: url('logo.png');
+max-width: 119px; height: 115px;
+}
+
+nav ul
+{
+background-color:534640;
+overflow:hidden;
+text-align:inline;
+color:white;
+padding:10px;
+}
+a{
+text-decoration:none;
+color:white;
+font-family: "Arial", Helvetica, sans-serif;
+}
+nav ul li
+{
+padding:10px;
+display:inline-block;
+}
+nav ul li:hover
+{
+background-color:broown;
+padding:10px;
+}
+
+
+h1 {
+color: #700000 ;
+text-align: center;
+}
+
+
